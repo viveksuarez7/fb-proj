@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fb-proj-dca87": {
+      "hosting": {
+        "fb-proj": [
+          "fb-proj-dca87"
+        ]
+      }
+    }
+  }
+}
